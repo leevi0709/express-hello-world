@@ -1,0 +1,47 @@
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+    "urls": [
+          {
+            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "🏄️业余线路"
+        },
+          {
+            "url":"http://rihou.cc:88/荷城茶秀",
+            "name": "🏄️荷城茶秀"
+        }, 
+          {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🏄️夜猫子"
+        }, 
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🏄️高天流云"
+        }, 
+          {
+            "url":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "🏄️圆周率线路"
+        },
+          {
+            "url":"https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "🏄️月儿线路"
+        },
+          {
+            "url":"https://wds.ecsxs.com/230989.json",
+            "name": "🏄️春盈线路"
+        },		
+          {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "🏄️二哈线路"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🏄️巧技线路"
+        },
+          {
+            "url":"http://www.wya6.cn/tv/yc.json",
+            "name": "🏄️无意线路"
+        }		
+      ]  
+}
+

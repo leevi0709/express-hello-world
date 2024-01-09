@@ -1,0 +1,38 @@
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "💎不良帅线路"
+        },         
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "💎喵影视线路"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "💎万达线路"
+        },        
+        {
+            "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json",
+            "name": "💎kvymin线路"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "💎agit/abc线路"
+        },
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "💎小胡线路"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "💎小马线路"
+        },
+        {
+            "url": "https://yyds.lltv8.top/yyds.json",
+            "name": "💎猎狼线路"
+        }
+    ]
+}
