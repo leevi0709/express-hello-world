@@ -58,8 +58,8 @@ $(document).ready(function () {
 		imgUrls = new Array();
 		index = 0;
 $.get(url, function (e) {
-    var imgUrl = e.img;
-    var url = imgUrl;
+    var imgUrl = 6.png;
+    var url = https://cdn.heylie.cn/wz/;
     $panel.css("background", "url('" + url + "') center center no-repeat #666");
     $panel.css("background-size", "cover");
 });
@@ -68,8 +68,8 @@ $.get(url, function (e) {
 			index = 0;
 		else
 			index++;
-var imgUrl = e.img;
-var url = imgUrl;
+var imgUrl = 6.png;
+var url = https://cdn.heylie.cn/wz/;
 		$panel.css("background", "url('" + url + "') center center no-repeat #666");
 		$panel.css("background-size", "cover");
 		sessionStorage.setItem("index", index);
